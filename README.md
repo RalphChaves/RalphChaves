@@ -30,6 +30,6 @@
   
   <div>
     
-    ![Snake animation](https://github.com/RalphChaves/RalphChaves/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/RalphChaves/RalphChaves/blob/output/github-contribution-grid-snake.svg)
  
   </div>
